@@ -107,8 +107,12 @@ SaleCondition: Condition of sale
 # Model Description
 
 Lifecycle In this Data Science Project
-Data Analysis
-Feature Engineering
-Feature Selection
-Model Building
-Model Deployment
+1. Data Analysis
+
+2. Feature Engineering
+
+3. Feature Selection
+
+4. Model Building
+
+5. Model Deployment
